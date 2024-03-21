@@ -1,3 +1,5 @@
+ **Note**: This repository has been archived and moved to [cdklabs/github-merit-badger](https://github.com/cdklabs/github-merit-badger).
+
 # <span style="font-size:8em;">🦡</span>
 
 # GitHub Merit Badger
